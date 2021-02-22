@@ -1,1 +1,1 @@
-# Typescrip Rreact Chrome Extension Boilerplate
+# Typescrip React Chrome Extension Boilerplate
